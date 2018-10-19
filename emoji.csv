@@ -1,0 +1,1384 @@
+number,codepoint,utf,shortname
+1,U+1F600,😀,:grinning-face:
+2,U+1F601,😁,:beaming-face-with-smiling-eyes:
+3,U+1F602,😂,:face-with-tears-of-joy:
+4,U+1F923,🤣,:rolling-on-the-floor-laughing:
+5,U+1F603,😃,:grinning-face-with-big-eyes:
+6,U+1F604,😄,:grinning-face-with-smiling-eyes:
+7,U+1F605,😅,:grinning-face-with-sweat:
+8,U+1F606,😆,:grinning-squinting-face:
+9,U+1F609,😉,:winking-face:
+10,U+1F60A,😊,:smiling-face-with-smiling-eyes:
+11,U+1F60B,😋,:face-savoring-food:
+12,U+1F60E,😎,:smiling-face-with-sunglasses:
+13,U+1F60D,😍,:smiling-face-with-heart-eyes:
+14,U+1F618,😘,:face-blowing-a-kiss:
+15,U+1F970,🥰,:smiling-face-with-3-hearts:
+16,U+1F617,😗,:kissing-face:
+17,U+1F619,😙,:kissing-face-with-smiling-eyes:
+18,U+1F61A,😚,:kissing-face-with-closed-eyes:
+19,U+263A,😊,:smiling-face:
+20,U+1F642,🙂,:slightly-smiling-face:
+21,U+1F917,🤗,:hugging-face:
+22,U+1F929,🤩,:star-struck:
+23,U+1F914,🤔,:thinking-face:
+24,U+1F928,🤨,:face-with-raised-eyebrow:
+25,U+1F610,😐,:neutral-face:
+26,U+1F611,😑,:expressionless-face:
+27,U+1F636,😶,:face-without-mouth:
+28,U+1F644,🙄,:face-with-rolling-eyes:
+29,U+1F60F,😏,:smirking-face:
+30,U+1F623,😣,:persevering-face:
+31,U+1F625,😥,:sad-but-relieved-face:
+32,U+1F62E,😮,:face-with-open-mouth:
+33,U+1F910,🤐,:zipper-mouth-face:
+34,U+1F62F,😯,:hushed-face:
+35,U+1F62A,😪,:sleepy-face:
+36,U+1F62B,😫,:tired-face:
+37,U+1F634,😴,:sleeping-face:
+38,U+1F60C,😌,:relieved-face:
+39,U+1F61B,😛,:face-with-tongue:
+40,U+1F61C,😜,:winking-face-with-tongue:
+41,U+1F61D,😝,:squinting-face-with-tongue:
+42,U+1F924,🤤,:drooling-face:
+43,U+1F612,😒,:unamused-face:
+44,U+1F613,😓,:downcast-face-with-sweat:
+45,U+1F614,😔,:pensive-face:
+46,U+1F615,😕,:confused-face:
+47,U+1F643,🙃,:upside-down-face:
+48,U+1F911,🤑,:money-mouth-face:
+49,U+1F632,😲,:astonished-face:
+50,U+2639,☹️,:frowning-face:
+51,U+1F641,🙁,:slightly-frowning-face:
+52,U+1F616,😖,:confounded-face:
+53,U+1F61E,😞,:disappointed-face:
+54,U+1F61F,😟,:worried-face:
+55,U+1F624,😤,:face-with-steam-from-nose:
+56,U+1F622,😢,:crying-face:
+57,U+1F62D,😭,:loudly-crying-face:
+58,U+1F626,😦,:frowning-face-with-open-mouth:
+59,U+1F627,😧,:anguished-face:
+60,U+1F628,😨,:fearful-face:
+61,U+1F629,😩,:weary-face:
+62,U+1F92F,🤯,:exploding-head:
+63,U+1F62C,😬,:grimacing-face:
+64,U+1F630,😰,:anxious-face-with-sweat:
+65,U+1F631,😱,:face-screaming-in-fear:
+66,U+1F975,🥵,:hot-face:
+67,U+1F976,🥶,:cold-face:
+68,U+1F633,😳,:flushed-face:
+69,U+1F92A,🤪,:zany-face:
+70,U+1F635,😵,:dizzy-face:
+71,U+1F621,😡,:pouting-face:
+72,U+1F620,😠,:angry-face:
+73,U+1F92C,🤬,:face-with-symbols-on-mouth:
+74,U+1F637,😷,:face-with-medical-mask:
+75,U+1F912,🤒,:face-with-thermometer:
+76,U+1F915,🤕,:face-with-head-bandage:
+77,U+1F922,🤢,:nauseated-face:
+78,U+1F92E,🤮,:face-vomiting:
+79,U+1F927,🤧,:sneezing-face:
+80,U+1F607,😇,:smiling-face-with-halo:
+81,U+1F920,🤠,:cowboy-hat-face:
+82,U+1F973,🥳,:partying-face:
+83,U+1F974,🥴,:woozy-face:
+84,U+1F97A,🥺,:pleading-face:
+85,U+1F925,🤥,:lying-face:
+86,U+1F92B,🤫,:shushing-face:
+87,U+1F92D,🤭,:face-with-hand-over-mouth:
+88,U+1F9D0,🧐,:face-with-monocle:
+89,U+1F913,🤓,:nerd-face:
+90,U+1F608,😈,:smiling-face-with-horns:
+91,U+1F47F,👿,:angry-face-with-horns:
+92,U+1F921,🤡,:clown-face:
+93,U+1F479,👹,:ogre:
+94,U+1F47A,👺,:goblin:
+95,U+1F480,💀,:skull:
+96,U+2620,☠,:skull-and-crossbones:
+97,U+1F47B,👻,:ghost:
+98,U+1F47D,👽,:alien:
+99,U+1F47E,👾,:alien-monster:
+100,U+1F916,🤖,:robot-face:
+101,U+1F4A9,💩,:pile-of-poo:
+102,U+1F63A,😺,:grinning-cat-face:
+103,U+1F638,😸,:grinning-cat-face-with-smiling-eyes:
+104,U+1F639,😹,:cat-face-with-tears-of-joy:
+105,U+1F63B,😻,:smiling-cat-face-with-heart-eyes:
+106,U+1F63C,😼,:cat-face-with-wry-smile:
+107,U+1F63D,😽,:kissing-cat-face:
+108,U+1F640,🙀,:weary-cat-face:
+109,U+1F63F,😿,:crying-cat-face:
+110,U+1F63E,😾,:pouting-cat-face:
+111,U+1F648,🙈,:see-no-evil-monkey:
+112,U+1F649,🙉,:hear-no-evil-monkey:
+113,U+1F64A,🙊,:speak-no-evil-monkey:
+114,U+1F476,👶,:baby:
+115,U+1F9D2,🧒,:child:
+116,U+1F466,👦,:boy:
+117,U+1F467,👧,:girl:
+118,U+1F9D1,🧑,:person:
+119,U+1F471,👱,:person;-blond-hair:
+120,U+1F468,👨,:man:
+121,U+1F471 U+200D U+2642 U+FE0F,👱‍♂️,:man;-blond-hair:
+122,U+1F468 U+200D U+1F9B0,👨‍🦰,:man;-red-hair:
+123,U+1F468 U+200D U+1F9B1,👨‍🦱,:man;-curly-hair:
+124,U+1F468 U+200D U+1F9B3,👨‍🦳,:man;-white-hair:
+125,U+1F468 U+200D U+1F9B2,👨‍🦲,:man;-bald:
+126,U+1F9D4,🧔,:man;-beard:
+127,U+1F469,👩,:woman:
+128,U+1F471 U+200D U+2640 U+FE0F,👱‍♀️,:woman;-blond-hair:
+129,U+1F469 U+200D U+1F9B0,👩‍🦰,:woman;-red-hair:
+130,U+1F469 U+200D U+1F9B1,👩‍🦱,:woman;-curly-hair:
+131,U+1F469 U+200D U+1F9B3,👩‍🦳,:woman;-white-hair:
+132,U+1F469 U+200D U+1F9B2,👩‍🦲,:woman;-bald:
+133,U+1F9D3,🧓,:older-person:
+134,U+1F474,👴,:old-man:
+135,U+1F475,👵,:old-woman:
+136,U+1F468 U+200D U+2695 U+FE0F,👨‍⚕️,:man-health-worker:
+137,U+1F469 U+200D U+2695 U+FE0F,👩‍⚕️,:woman-health-worker:
+138,U+1F468 U+200D U+1F393,👨‍🎓,:man-student:
+139,U+1F469 U+200D U+1F393,👩‍🎓,:woman-student:
+140,U+1F468 U+200D U+1F3EB,👨‍🏫,:man-teacher:
+141,U+1F469 U+200D U+1F3EB,👩‍🏫,:woman-teacher:
+142,U+1F468 U+200D U+2696 U+FE0F,👨‍⚖️,:man-judge:
+143,U+1F469 U+200D U+2696 U+FE0F,👩‍⚖️,:woman-judge:
+144,U+1F468 U+200D U+1F33E,👨‍🌾,:man-farmer:
+145,U+1F469 U+200D U+1F33E,👩‍🌾,:woman-farmer:
+146,U+1F468 U+200D U+1F373,👨‍🍳,:man-cook:
+147,U+1F469 U+200D U+1F373,👩‍🍳,:woman-cook:
+148,U+1F468 U+200D U+1F527,👨‍🔧,:man-mechanic:
+149,U+1F469 U+200D U+1F527,👩‍🔧,:woman-mechanic:
+150,U+1F468 U+200D U+1F3ED,👨‍🏭,:man-factory-worker:
+151,U+1F469 U+200D U+1F3ED,👩‍🏭,:woman-factory-worker:
+152,U+1F468 U+200D U+1F4BC,👨‍💼,:man-office-worker:
+153,U+1F469 U+200D U+1F4BC,👩‍💼,:woman-office-worker:
+154,U+1F468 U+200D U+1F52C,👨‍🔬,:man-scientist:
+155,U+1F469 U+200D U+1F52C,👩‍🔬,:woman-scientist:
+156,U+1F468 U+200D U+1F4BB,👨‍💻,:man-technologist:
+157,U+1F469 U+200D U+1F4BB,👩‍💻,:woman-technologist:
+158,U+1F468 U+200D U+1F3A4,👨‍🎤,:man-singer:
+159,U+1F469 U+200D U+1F3A4,👩‍🎤,:woman-singer:
+160,U+1F468 U+200D U+1F3A8,👨‍🎨,:man-artist:
+161,U+1F469 U+200D U+1F3A8,👩‍🎨,:woman-artist:
+162,U+1F468 U+200D U+2708 U+FE0F,👨‍✈️,:man-pilot:
+163,U+1F469 U+200D U+2708 U+FE0F,👩‍✈️,:woman-pilot:
+164,U+1F468 U+200D U+1F680,👨‍🚀,:man-astronaut:
+165,U+1F469 U+200D U+1F680,👩‍🚀,:woman-astronaut:
+166,U+1F468 U+200D U+1F692,👨‍🚒,:man-firefighter:
+167,U+1F469 U+200D U+1F692,👩‍🚒,:woman-firefighter:
+168,U+1F46E,👮,:police-officer:
+169,U+1F46E U+200D U+2642 U+FE0F,👮‍♂️,:man-police-officer:
+170,U+1F46E U+200D U+2640 U+FE0F,👮‍♀️,:woman-police-officer:
+171,U+1F575,🕵,:detective:
+172,U+1F575 U+FE0F U+200D U+2642 U+FE0F,🕵️‍♂️,:man-detective:
+173,U+1F575 U+FE0F U+200D U+2640 U+FE0F,🕵️‍♀️,:woman-detective:
+174,U+1F482,💂,:guard:
+175,U+1F482 U+200D U+2642 U+FE0F,💂‍♂️,:man-guard:
+176,U+1F482 U+200D U+2640 U+FE0F,💂‍♀️,:woman-guard:
+177,U+1F477,👷,:construction-worker:
+178,U+1F477 U+200D U+2642 U+FE0F,👷‍♂️,:man-construction-worker:
+179,U+1F477 U+200D U+2640 U+FE0F,👷‍♀️,:woman-construction-worker:
+180,U+1F934,🤴,:prince:
+181,U+1F478,👸,:princess:
+182,U+1F473,👳,:person-wearing-turban:
+183,U+1F473 U+200D U+2642 U+FE0F,👳‍♂️,:man-wearing-turban:
+184,U+1F473 U+200D U+2640 U+FE0F,👳‍♀️,:woman-wearing-turban:
+185,U+1F472,👲,:man-with-Chinese-cap:
+186,U+1F9D5,🧕,:woman-with-headscarf:
+187,U+1F935,🤵,:man-in-tuxedo:
+188,U+1F470,👰,:bride-with-veil:
+189,U+1F930,🤰,:pregnant-woman:
+190,U+1F931,🤱,:breast-feeding:
+191,U+1F47C,👼,:baby-angel:
+192,U+1F385,🎅,:Santa-Claus:
+193,U+1F936,🤶,:Mrs.-Claus:
+194,U+1F9B8,🦸,:superhero:
+195,U+1F9B8 U+200D U+2640 U+FE0F,🦸‍♀️,:woman-superhero:
+196,U+1F9B8 U+200D U+2642 U+FE0F,🦸‍♂️,:man-superhero:
+197,U+1F9B9,🦹,:supervillain:
+198,U+1F9B9 U+200D U+2640 U+FE0F,🦹‍♀️,:woman-supervillain:
+199,U+1F9B9 U+200D U+2642 U+FE0F,🦹‍♂️,:man-supervillain:
+200,U+1F9D9,🧙,:mage:
+201,U+1F9D9 U+200D U+2640 U+FE0F,🧙‍♀️,:woman-mage:
+202,U+1F9D9 U+200D U+2642 U+FE0F,🧙‍♂️,:man-mage:
+203,U+1F9DA,🧚,:fairy:
+204,U+1F9DA U+200D U+2640 U+FE0F,🧚‍♀️,:woman-fairy:
+205,U+1F9DA U+200D U+2642 U+FE0F,🧚‍♂️,:man-fairy:
+206,U+1F9DB,🧛,:vampire:
+207,U+1F9DB U+200D U+2640 U+FE0F,🧛‍♀️,:woman-vampire:
+208,U+1F9DB U+200D U+2642 U+FE0F,🧛‍♂️,:man-vampire:
+209,U+1F9DC,🧜,:merperson:
+210,U+1F9DC U+200D U+2640 U+FE0F,🧜‍♀️,:mermaid:
+211,U+1F9DC U+200D U+2642 U+FE0F,🧜‍♂️,:merman:
+212,U+1F9DD,🧝,:elf:
+213,U+1F9DD U+200D U+2640 U+FE0F,🧝‍♀️,:woman-elf:
+214,U+1F9DD U+200D U+2642 U+FE0F,🧝‍♂️,:man-elf:
+215,U+1F9DE,🧞,:genie:
+216,U+1F9DE U+200D U+2640 U+FE0F,🧞‍♀️,:woman-genie:
+217,U+1F9DE U+200D U+2642 U+FE0F,🧞‍♂️,:man-genie:
+218,U+1F9DF,🧟,:zombie:
+219,U+1F9DF U+200D U+2640 U+FE0F,🧟‍♀️,:woman-zombie:
+220,U+1F9DF U+200D U+2642 U+FE0F,🧟‍♂️,:man-zombie:
+221,U+1F64D,🙍,:person-frowning:
+222,U+1F64D U+200D U+2642 U+FE0F,🙍‍♂️,:man-frowning:
+223,U+1F64D U+200D U+2640 U+FE0F,🙍‍♀️,:woman-frowning:
+224,U+1F64E,🙎,:person-pouting:
+225,U+1F64E U+200D U+2642 U+FE0F,🙎‍♂️,:man-pouting:
+226,U+1F64E U+200D U+2640 U+FE0F,🙎‍♀️,:woman-pouting:
+227,U+1F645,🙅,:person-gesturing-NO:
+228,U+1F645 U+200D U+2642 U+FE0F,🙅‍♂️,:man-gesturing-NO:
+229,U+1F645 U+200D U+2640 U+FE0F,🙅‍♀️,:woman-gesturing-NO:
+230,U+1F646,🙆,:person-gesturing-OK:
+231,U+1F646 U+200D U+2642 U+FE0F,🙆‍♂️,:man-gesturing-OK:
+232,U+1F646 U+200D U+2640 U+FE0F,🙆‍♀️,:woman-gesturing-OK:
+233,U+1F481,💁,:person-tipping-hand:
+234,U+1F481 U+200D U+2642 U+FE0F,💁‍♂️,:man-tipping-hand:
+235,U+1F481 U+200D U+2640 U+FE0F,💁‍♀️,:woman-tipping-hand:
+236,U+1F64B,🙋,:person-raising-hand:
+237,U+1F64B U+200D U+2642 U+FE0F,🙋‍♂️,:man-raising-hand:
+238,U+1F64B U+200D U+2640 U+FE0F,🙋‍♀️,:woman-raising-hand:
+239,U+1F647,🙇,:person-bowing:
+240,U+1F647 U+200D U+2642 U+FE0F,🙇‍♂️,:man-bowing:
+241,U+1F647 U+200D U+2640 U+FE0F,🙇‍♀️,:woman-bowing:
+242,U+1F926,🤦,:person-facepalming:
+243,U+1F926 U+200D U+2642 U+FE0F,🤦‍♂️,:man-facepalming:
+244,U+1F926 U+200D U+2640 U+FE0F,🤦‍♀️,:woman-facepalming:
+245,U+1F937,🤷,:person-shrugging:
+246,U+1F937 U+200D U+2642 U+FE0F,🤷‍♂️,:man-shrugging:
+247,U+1F937 U+200D U+2640 U+FE0F,🤷‍♀️,:woman-shrugging:
+248,U+1F486,💆,:person-getting-massage:
+249,U+1F486 U+200D U+2642 U+FE0F,💆‍♂️,:man-getting-massage:
+250,U+1F486 U+200D U+2640 U+FE0F,💆‍♀️,:woman-getting-massage:
+251,U+1F487,💇,:person-getting-haircut:
+252,U+1F487 U+200D U+2642 U+FE0F,💇‍♂️,:man-getting-haircut:
+253,U+1F487 U+200D U+2640 U+FE0F,💇‍♀️,:woman-getting-haircut:
+254,U+1F6B6,🚶,:person-walking:
+255,U+1F6B6 U+200D U+2642 U+FE0F,🚶‍♂️,:man-walking:
+256,U+1F6B6 U+200D U+2640 U+FE0F,🚶‍♀️,:woman-walking:
+257,U+1F3C3,🏃,:person-running:
+258,U+1F3C3 U+200D U+2642 U+FE0F,🏃‍♂️,:man-running:
+259,U+1F3C3 U+200D U+2640 U+FE0F,🏃‍♀️,:woman-running:
+260,U+1F483,💃,:woman-dancing:
+261,U+1F57A,🕺,:man-dancing:
+262,U+1F46F,👯,:people-with-bunny-ears:
+263,U+1F46F U+200D U+2642 U+FE0F,👯‍♂️,:men-with-bunny-ears:
+264,U+1F46F U+200D U+2640 U+FE0F,👯‍♀️,:women-with-bunny-ears:
+265,U+1F9D6,🧖,:person-in-steamy-room:
+266,U+1F9D6 U+200D U+2640 U+FE0F,🧖‍♀️,:woman-in-steamy-room:
+267,U+1F9D6 U+200D U+2642 U+FE0F,🧖‍♂️,:man-in-steamy-room:
+268,U+1F9D7,🧗,:person-climbing:
+269,U+1F9D7 U+200D U+2640 U+FE0F,🧗‍♀️,:woman-climbing:
+270,U+1F9D7 U+200D U+2642 U+FE0F,🧗‍♂️,:man-climbing:
+271,U+1F9D8,🧘,:person-in-lotus-position:
+272,U+1F9D8 U+200D U+2640 U+FE0F,🧘‍♀️,:woman-in-lotus-position:
+273,U+1F9D8 U+200D U+2642 U+FE0F,🧘‍♂️,:man-in-lotus-position:
+274,U+1F6C0,🛀,:person-taking-bath:
+275,U+1F6CC,🛌,:person-in-bed:
+276,U+1F574,🕴,:man-in-suit-levitating:
+277,U+1F5E3,🗣,:speaking-head:
+278,U+1F464,👤,:bust-in-silhouette:
+279,U+1F465,👥,:busts-in-silhouette:
+280,U+1F93A,🤺,:person-fencing:
+281,U+1F3C7,🏇,:horse-racing:
+282,U+26F7,⛷,:skier:
+283,U+1F3C2,🏂,:snowboarder:
+284,U+1F3CC,🏌,:person-golfing:
+285,U+1F3CC U+FE0F U+200D U+2642 U+FE0F,🏌️‍♂️,:man-golfing:
+286,U+1F3CC U+FE0F U+200D U+2640 U+FE0F,🏌️‍♀️,:woman-golfing:
+287,U+1F3C4,🏄,:person-surfing:
+288,U+1F3C4 U+200D U+2642 U+FE0F,🏄‍♂️,:man-surfing:
+289,U+1F3C4 U+200D U+2640 U+FE0F,🏄‍♀️,:woman-surfing:
+290,U+1F6A3,🚣,:person-rowing-boat:
+291,U+1F6A3 U+200D U+2642 U+FE0F,🚣‍♂️,:man-rowing-boat:
+292,U+1F6A3 U+200D U+2640 U+FE0F,🚣‍♀️,:woman-rowing-boat:
+293,U+1F3CA,🏊,:person-swimming:
+294,U+1F3CA U+200D U+2642 U+FE0F,🏊‍♂️,:man-swimming:
+295,U+1F3CA U+200D U+2640 U+FE0F,🏊‍♀️,:woman-swimming:
+296,U+26F9,⛹,:person-bouncing-ball:
+297,U+26F9 U+FE0F U+200D U+2642 U+FE0F,⛹️‍♂️,:man-bouncing-ball:
+298,U+26F9 U+FE0F U+200D U+2640 U+FE0F,⛹️‍♀️,:woman-bouncing-ball:
+299,U+1F3CB,🏋,:person-lifting-weights:
+300,U+1F3CB U+FE0F U+200D U+2642 U+FE0F,🏋️‍♂️,:man-lifting-weights:
+301,U+1F3CB U+FE0F U+200D U+2640 U+FE0F,🏋️‍♀️,:woman-lifting-weights:
+302,U+1F6B4,🚴,:person-biking:
+303,U+1F6B4 U+200D U+2642 U+FE0F,🚴‍♂️,:man-biking:
+304,U+1F6B4 U+200D U+2640 U+FE0F,🚴‍♀️,:woman-biking:
+305,U+1F6B5,🚵,:person-mountain-biking:
+306,U+1F6B5 U+200D U+2642 U+FE0F,🚵‍♂️,:man-mountain-biking:
+307,U+1F6B5 U+200D U+2640 U+FE0F,🚵‍♀️,:woman-mountain-biking:
+308,U+1F3CE,🏎,:racing-car:
+309,U+1F3CD,🏍,:motorcycle:
+310,U+1F938,🤸,:person-cartwheeling:
+311,U+1F938 U+200D U+2642 U+FE0F,🤸‍♂️,:man-cartwheeling:
+312,U+1F938 U+200D U+2640 U+FE0F,🤸‍♀️,:woman-cartwheeling:
+313,U+1F93C,🤼,:people-wrestling:
+314,U+1F93C U+200D U+2642 U+FE0F,🤼‍♂️,:men-wrestling:
+315,U+1F93C U+200D U+2640 U+FE0F,🤼‍♀️,:women-wrestling:
+316,U+1F93D,🤽,:person-playing-water-polo:
+317,U+1F93D U+200D U+2642 U+FE0F,🤽‍♂️,:man-playing-water-polo:
+318,U+1F93D U+200D U+2640 U+FE0F,🤽‍♀️,:woman-playing-water-polo:
+319,U+1F93E,🤾,:person-playing-handball:
+320,U+1F93E U+200D U+2642 U+FE0F,🤾‍♂️,:man-playing-handball:
+321,U+1F93E U+200D U+2640 U+FE0F,🤾‍♀️,:woman-playing-handball:
+322,U+1F939,🤹,:person-juggling:
+323,U+1F939 U+200D U+2642 U+FE0F,🤹‍♂️,:man-juggling:
+324,U+1F939 U+200D U+2640 U+FE0F,🤹‍♀️,:woman-juggling:
+325,U+1F46B,👫,:man-and-woman-holding-hands:
+326,U+1F46C,👬,:two-men-holding-hands:
+327,U+1F46D,👭,:two-women-holding-hands:
+328,U+1F48F,💏,:kiss:
+329,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468,👩‍❤️‍💋‍👨,":kiss;-woman,-man:"
+330,U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468,👨‍❤️‍💋‍👨,":kiss;-man,-man:"
+331,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469,👩‍❤️‍💋‍👩,":kiss;-woman,-woman:"
+332,U+1F491,💑,:couple-with-heart:
+333,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468,👩‍❤️‍👨,":couple-with-heart;-woman,-man:"
+334,U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468,👨‍❤️‍👨,":couple-with-heart;-man,-man:"
+335,U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469,👩‍❤️‍👩,":couple-with-heart;-woman,-woman:"
+336,U+1F46A,👪,:family:
+337,U+1F468 U+200D U+1F469 U+200D U+1F466,👨‍👩‍👦,":family;-man,-woman,-boy:"
+338,U+1F468 U+200D U+1F469 U+200D U+1F467,👨‍👩‍👧,":family;-man,-woman,-girl:"
+339,U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466,👨‍👩‍👧‍👦,":family;-man,-woman,-girl,-boy:"
+340,U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466,👨‍👩‍👦‍👦,":family;-man,-woman,-boy,-boy:"
+341,U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467,👨‍👩‍👧‍👧,":family;-man,-woman,-girl,-girl:"
+342,U+1F468 U+200D U+1F468 U+200D U+1F466,👨‍👨‍👦,":family;-man,-man,-boy:"
+343,U+1F468 U+200D U+1F468 U+200D U+1F467,👨‍👨‍👧,":family;-man,-man,-girl:"
+344,U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466,👨‍👨‍👧‍👦,":family;-man,-man,-girl,-boy:"
+345,U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466,👨‍👨‍👦‍👦,":family;-man,-man,-boy,-boy:"
+346,U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467,👨‍👨‍👧‍👧,":family;-man,-man,-girl,-girl:"
+347,U+1F469 U+200D U+1F469 U+200D U+1F466,👩‍👩‍👦,":family;-woman,-woman,-boy:"
+348,U+1F469 U+200D U+1F469 U+200D U+1F467,👩‍👩‍👧,":family;-woman,-woman,-girl:"
+349,U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466,👩‍👩‍👧‍👦,":family;-woman,-woman,-girl,-boy:"
+350,U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466,👩‍👩‍👦‍👦,":family;-woman,-woman,-boy,-boy:"
+351,U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467,👩‍👩‍👧‍👧,":family;-woman,-woman,-girl,-girl:"
+352,U+1F468 U+200D U+1F466,👨‍👦,":family;-man,-boy:"
+353,U+1F468 U+200D U+1F466 U+200D U+1F466,👨‍👦‍👦,":family;-man,-boy,-boy:"
+354,U+1F468 U+200D U+1F467,👨‍👧,":family;-man,-girl:"
+355,U+1F468 U+200D U+1F467 U+200D U+1F466,👨‍👧‍👦,":family;-man,-girl,-boy:"
+356,U+1F468 U+200D U+1F467 U+200D U+1F467,👨‍👧‍👧,":family;-man,-girl,-girl:"
+357,U+1F469 U+200D U+1F466,👩‍👦,":family;-woman,-boy:"
+358,U+1F469 U+200D U+1F466 U+200D U+1F466,👩‍👦‍👦,":family;-woman,-boy,-boy:"
+359,U+1F469 U+200D U+1F467,👩‍👧,":family;-woman,-girl:"
+360,U+1F469 U+200D U+1F467 U+200D U+1F466,👩‍👧‍👦,":family;-woman,-girl,-boy:"
+361,U+1F469 U+200D U+1F467 U+200D U+1F467,👩‍👧‍👧,":family;-woman,-girl,-girl:"
+362,U+1F933,🤳,:selfie:
+363,U+1F4AA,💪,:flexed-biceps:
+364,U+1F9B5,🦵,:leg:
+365,U+1F9B6,🦶,:foot:
+366,U+1F448,👈,:backhand-index-pointing-left:
+367,U+1F449,👉,:backhand-index-pointing-right:
+368,U+261D,☝️,:index-pointing-up:
+369,U+1F446,👆,:backhand-index-pointing-up:
+370,U+1F595,🖕,:middle-finger:
+371,U+1F447,👇,:backhand-index-pointing-down:
+372,U+270C,✌️,:victory-hand:
+373,U+1F91E,🤞,:crossed-fingers:
+374,U+1F596,🖖,:vulcan-salute:
+375,U+1F918,🤘,:sign-of-the-horns:
+376,U+1F919,🤙,:call-me-hand:
+377,U+1F590,🖐,:hand-with-fingers-splayed:
+378,U+270B,✋,:raised-hand:
+379,U+1F44C,👌,:OK-hand:
+380,U+1F44D,👍,:thumbs-up:
+381,U+1F44E,👎,:thumbs-down:
+382,U+270A,✊,:raised-fist:
+383,U+1F44A,👊,:oncoming-fist:
+384,U+1F91B,🤛,:left-facing-fist:
+385,U+1F91C,🤜,:right-facing-fist:
+386,U+1F91A,🤚,:raised-back-of-hand:
+387,U+1F44B,👋,:waving-hand:
+388,U+1F91F,🤟,:love-you-gesture:
+389,U+270D,✍️,:writing-hand:
+390,U+1F44F,👏,:clapping-hands:
+391,U+1F450,👐,:open-hands:
+392,U+1F64C,🙌,:raising-hands:
+393,U+1F932,🤲,:palms-up-together:
+394,U+1F64F,🙏,:folded-hands:
+395,U+1F91D,🤝,:handshake:
+396,U+1F485,💅,:nail-polish:
+397,U+1F442,👂,:ear:
+398,U+1F443,👃,:nose:
+399,U+1F463,👣,:footprints:
+400,U+1F440,👀,:eyes:
+401,U+1F441,👁,:eye:
+402,U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F,👁️‍🗨️,:eye-in-speech-bubble:
+403,U+1F9E0,🧠,:brain:
+404,U+1F9B4,🦴,:bone:
+405,U+1F9B7,🦷,:tooth:
+406,U+1F445,👅,:tongue:
+407,U+1F444,👄,:mouth:
+408,U+1F9B0,🦰,:red-hair:
+409,U+1F9B1,🦱,:curly-hair:
+410,U+1F9B3,🦳,:white-hair:
+411,U+1F9B2,🦲,:bald:
+412,U+1F48B,💋,:kiss-mark:
+413,U+1F498,💘,:heart-with-arrow:
+414,U+1F49D,💝,:heart-with-ribbon:
+415,U+1F496,💖,:sparkling-heart:
+416,U+1F497,💗,:growing-heart:
+417,U+1F493,💓,:beating-heart:
+418,U+1F49E,💞,:revolving-hearts:
+419,U+1F495,💕,:two-hearts:
+420,U+1F48C,💌,:love-letter:
+421,U+2763,❣️,:heavy-heart-exclamation:
+422,U+1F494,💔,:broken-heart:
+423,U+2764,❤️,:red-heart:
+424,U+1F9E1,🧡,:orange-heart:
+425,U+1F49B,💛,:yellow-heart:
+426,U+1F49A,💚,:green-heart:
+427,U+1F499,💙,:blue-heart:
+428,U+1F49C,💜,:purple-heart:
+429,U+1F5A4,🖤,:black-heart:
+430,U+1F49F,💟,:heart-decoration:
+431,U+1F4A4,💤,:zzz:
+432,U+1F4A2,💢,:anger-symbol:
+433,U+1F4A3,💣,:bomb:
+434,U+1F4A5,💥,:collision:
+435,U+1F4A6,💦,:sweat-droplets:
+436,U+1F4A8,💨,:dashing-away:
+437,U+1F4AB,💫,:dizzy:
+438,U+1F4AC,💬,:speech-balloon:
+439,U+1F5E8,🗨,:left-speech-bubble:
+440,U+1F5EF,🗯,:right-anger-bubble:
+441,U+1F4AD,💭,:thought-balloon:
+442,U+1F573,🕳,:hole:
+443,U+1F453,👓,:glasses:
+444,U+1F576,🕶,:sunglasses:
+445,U+1F97D,🥽,:goggles:
+446,U+1F97C,🥼,:lab-coat:
+447,U+1F454,👔,:necktie:
+448,U+1F455,👕,:t-shirt:
+449,U+1F456,👖,:jeans:
+450,U+1F9E3,🧣,:scarf:
+451,U+1F9E4,🧤,:gloves:
+452,U+1F9E5,🧥,:coat:
+453,U+1F9E6,🧦,:socks:
+454,U+1F457,👗,:dress:
+455,U+1F458,👘,:kimono:
+456,U+1F459,👙,:bikini:
+457,U+1F45A,👚,:woman’s-clothes:
+458,U+1F45B,👛,:purse:
+459,U+1F45C,👜,:handbag:
+460,U+1F45D,👝,:clutch-bag:
+461,U+1F6CD,🛍,:shopping-bags:
+462,U+1F392,🎒,:backpack:
+463,U+1F45E,👞,:man’s-shoe:
+464,U+1F45F,👟,:running-shoe:
+465,U+1F97E,🥾,:hiking-boot:
+466,U+1F97F,🥿,:flat-shoe:
+467,U+1F460,👠,:high-heeled-shoe:
+468,U+1F461,👡,:woman’s-sandal:
+469,U+1F462,👢,:woman’s-boot:
+470,U+1F451,👑,:crown:
+471,U+1F452,👒,:woman’s-hat:
+472,U+1F3A9,🎩,:top-hat:
+473,U+1F393,🎓,:graduation-cap:
+474,U+1F9E2,🧢,:billed-cap:
+475,U+26D1,⛑,:rescue-worker’s-helmet:
+476,U+1F4FF,📿,:prayer-beads:
+477,U+1F484,💄,:lipstick:
+478,U+1F48D,💍,:ring:
+479,U+1F48E,💎,:gem-stone:
+480,U+1F435,🐵,:monkey-face:
+481,U+1F412,🐒,:monkey:
+482,U+1F98D,🦍,:gorilla:
+483,U+1F436,🐶,:dog-face:
+484,U+1F415,🐕,:dog:
+485,U+1F429,🐩,:poodle:
+486,U+1F43A,🐺,:wolf-face:
+487,U+1F98A,🦊,:fox-face:
+488,U+1F99D,🦝,:raccoon:
+489,U+1F431,🐱,:cat-face:
+490,U+1F408,🐈,:cat:
+491,U+1F981,🦁,:lion-face:
+492,U+1F42F,🐯,:tiger-face:
+493,U+1F405,🐅,:tiger:
+494,U+1F406,🐆,:leopard:
+495,U+1F434,🐴,:horse-face:
+496,U+1F40E,🐎,:horse:
+497,U+1F984,🦄,:unicorn-face:
+498,U+1F993,🦓,:zebra:
+499,U+1F98C,🦌,:deer:
+500,U+1F42E,🐮,:cow-face:
+501,U+1F402,🐂,:ox:
+502,U+1F403,🐃,:water-buffalo:
+503,U+1F404,🐄,:cow:
+504,U+1F437,🐷,:pig-face:
+505,U+1F416,🐖,:pig:
+506,U+1F417,🐗,:boar:
+507,U+1F43D,🐽,:pig-nose:
+508,U+1F40F,🐏,:ram:
+509,U+1F411,🐑,:ewe:
+510,U+1F410,🐐,:goat:
+511,U+1F42A,🐪,:camel:
+512,U+1F42B,🐫,:two-hump-camel:
+513,U+1F999,🦙,:llama:
+514,U+1F992,🦒,:giraffe:
+515,U+1F418,🐘,:elephant:
+516,U+1F98F,🦏,:rhinoceros:
+517,U+1F99B,🦛,:hippopotamus:
+518,U+1F42D,🐭,:mouse-face:
+519,U+1F401,🐁,:mouse:
+520,U+1F400,🐀,:rat:
+521,U+1F439,🐹,:hamster-face:
+522,U+1F430,🐰,:rabbit-face:
+523,U+1F407,🐇,:rabbit:
+524,U+1F43F,🐿,:chipmunk:
+525,U+1F994,🦔,:hedgehog:
+526,U+1F987,🦇,:bat:
+527,U+1F43B,🐻,:bear-face:
+528,U+1F428,🐨,:koala:
+529,U+1F43C,🐼,:panda-face:
+530,U+1F998,🦘,:kangaroo:
+531,U+1F9A1,🦡,:badger:
+532,U+1F43E,🐾,:paw-prints:
+533,U+1F983,🦃,:turkey:
+534,U+1F414,🐔,:chicken:
+535,U+1F413,🐓,:rooster:
+536,U+1F423,🐣,:hatching-chick:
+537,U+1F424,🐤,:baby-chick:
+538,U+1F425,🐥,:front-facing-baby-chick:
+539,U+1F426,🐦,:bird:
+540,U+1F427,🐧,:penguin:
+541,U+1F54A,🕊,:dove:
+542,U+1F985,🦅,:eagle:
+543,U+1F986,🦆,:duck:
+544,U+1F9A2,🦢,:swan:
+545,U+1F989,🦉,:owl:
+546,U+1F99A,🦚,:peacock:
+547,U+1F99C,🦜,:parrot:
+548,U+1F438,🐸,:frog-face:
+549,U+1F40A,🐊,:crocodile:
+550,U+1F422,🐢,:turtle:
+551,U+1F98E,🦎,:lizard:
+552,U+1F40D,🐍,:snake:
+553,U+1F432,🐲,:dragon-face:
+554,U+1F409,🐉,:dragon:
+555,U+1F995,🦕,:sauropod:
+556,U+1F996,🦖,:T-Rex:
+557,U+1F433,🐳,:spouting-whale:
+558,U+1F40B,🐋,:whale:
+559,U+1F42C,🐬,:dolphin:
+560,U+1F41F,🐟,:fish:
+561,U+1F420,🐠,:tropical-fish:
+562,U+1F421,🐡,:blowfish:
+563,U+1F988,🦈,:shark:
+564,U+1F419,🐙,:octopus:
+565,U+1F41A,🐚,:spiral-shell:
+566,U+1F980,🦀,:crab:
+567,U+1F99E,🦞,:lobster:
+568,U+1F990,🦐,:shrimp:
+569,U+1F991,🦑,:squid:
+570,U+1F40C,🐌,:snail:
+571,U+1F98B,🦋,:butterfly:
+572,U+1F41B,🐛,:bug:
+573,U+1F41C,🐜,:ant:
+574,U+1F41D,🐝,:honeybee:
+575,U+1F41E,🐞,:lady-beetle:
+576,U+1F997,🦗,:cricket:
+577,U+1F577,🕷,:spider:
+578,U+1F578,🕸,:spider-web:
+579,U+1F982,🦂,:scorpion:
+580,U+1F99F,🦟,:mosquito:
+581,U+1F9A0,🦠,:microbe:
+582,U+1F490,💐,:bouquet:
+583,U+1F338,🌸,:cherry-blossom:
+584,U+1F4AE,💮,:white-flower:
+585,U+1F3F5,🏵,:rosette:
+586,U+1F339,🌹,:rose:
+587,U+1F940,🥀,:wilted-flower:
+588,U+1F33A,🌺,:hibiscus:
+589,U+1F33B,🌻,:sunflower:
+590,U+1F33C,🌼,:blossom:
+591,U+1F337,🌷,:tulip:
+592,U+1F331,🌱,:seedling:
+593,U+1F332,🌲,:evergreen-tree:
+594,U+1F333,🌳,:deciduous-tree:
+595,U+1F334,🌴,:palm-tree:
+596,U+1F335,🌵,:cactus:
+597,U+1F33E,🌾,:sheaf-of-rice:
+598,U+1F33F,🌿,:herb:
+599,U+2618,☘,:shamrock:
+600,U+1F340,🍀,:four-leaf-clover:
+601,U+1F341,🍁,:maple-leaf:
+602,U+1F342,🍂,:fallen-leaf:
+603,U+1F343,🍃,:leaf-fluttering-in-wind:
+604,U+1F347,🍇,:grapes:
+605,U+1F348,🍈,:melon:
+606,U+1F349,🍉,:watermelon:
+607,U+1F34A,🍊,:tangerine:
+608,U+1F34B,🍋,:lemon:
+609,U+1F34C,🍌,:banana:
+610,U+1F34D,🍍,:pineapple:
+611,U+1F96D,🥭,:mango:
+612,U+1F34E,🍎,:red-apple:
+613,U+1F34F,🍏,:green-apple:
+614,U+1F350,🍐,:pear:
+615,U+1F351,🍑,:peach:
+616,U+1F352,🍒,:cherries:
+617,U+1F353,🍓,:strawberry:
+618,U+1F95D,🥝,:kiwi-fruit:
+619,U+1F345,🍅,:tomato:
+620,U+1F965,🥥,:coconut:
+621,U+1F951,🥑,:avocado:
+622,U+1F346,🍆,:eggplant:
+623,U+1F954,🥔,:potato:
+624,U+1F955,🥕,:carrot:
+625,U+1F33D,🌽,:ear-of-corn:
+626,U+1F336,🌶,:hot-pepper:
+627,U+1F952,🥒,:cucumber:
+628,U+1F96C,🥬,:leafy-green:
+629,U+1F966,🥦,:broccoli:
+630,U+1F344,🍄,:mushroom:
+631,U+1F95C,🥜,:peanuts:
+632,U+1F330,🌰,:chestnut:
+633,U+1F35E,🍞,:bread:
+634,U+1F950,🥐,:croissant:
+635,U+1F956,🥖,:baguette-bread:
+636,U+1F968,🥨,:pretzel:
+637,U+1F96F,🥯,:bagel:
+638,U+1F95E,🥞,:pancakes:
+639,U+1F9C0,🧀,:cheese-wedge:
+640,U+1F356,🍖,:meat-on-bone:
+641,U+1F357,🍗,:poultry-leg:
+642,U+1F969,🥩,:cut-of-meat:
+643,U+1F953,🥓,:bacon:
+644,U+1F354,🍔,:hamburger:
+645,U+1F35F,🍟,:french-fries:
+646,U+1F355,🍕,:pizza:
+647,U+1F32D,🌭,:hot-dog:
+648,U+1F96A,🥪,:sandwich:
+649,U+1F32E,🌮,:taco:
+650,U+1F32F,🌯,:burrito:
+651,U+1F959,🥙,:stuffed-flatbread:
+652,U+1F95A,🥚,:egg:
+653,U+1F373,🍳,:cooking:
+654,U+1F958,🥘,:shallow-pan-of-food:
+655,U+1F372,🍲,:pot-of-food:
+656,U+1F963,🥣,:bowl-with-spoon:
+657,U+1F957,🥗,:green-salad:
+658,U+1F37F,🍿,:popcorn:
+659,U+1F9C2,🧂,:salt:
+660,U+1F96B,🥫,:canned-food:
+661,U+1F371,🍱,:bento-box:
+662,U+1F358,🍘,:rice-cracker:
+663,U+1F359,🍙,:rice-ball:
+664,U+1F35A,🍚,:cooked-rice:
+665,U+1F35B,🍛,:curry-rice:
+666,U+1F35C,🍜,:steaming-bowl:
+667,U+1F35D,🍝,:spaghetti:
+668,U+1F360,🍠,:roasted-sweet-potato:
+669,U+1F362,🍢,:oden:
+670,U+1F363,🍣,:sushi:
+671,U+1F364,🍤,:fried-shrimp:
+672,U+1F365,🍥,:fish-cake-with-swirl:
+673,U+1F96E,🥮,:moon-cake:
+674,U+1F361,🍡,:dango:
+675,U+1F95F,🥟,:dumpling:
+676,U+1F960,🥠,:fortune-cookie:
+677,U+1F961,🥡,:takeout-box:
+678,U+1F366,🍦,:soft-ice-cream:
+679,U+1F367,🍧,:shaved-ice:
+680,U+1F368,🍨,:ice-cream:
+681,U+1F369,🍩,:doughnut:
+682,U+1F36A,🍪,:cookie:
+683,U+1F382,🎂,:birthday-cake:
+684,U+1F370,🍰,:shortcake:
+685,U+1F9C1,🧁,:cupcake:
+686,U+1F967,🥧,:pie:
+687,U+1F36B,🍫,:chocolate-bar:
+688,U+1F36C,🍬,:candy:
+689,U+1F36D,🍭,:lollipop:
+690,U+1F36E,🍮,:custard:
+691,U+1F36F,🍯,:honey-pot:
+692,U+1F37C,🍼,:baby-bottle:
+693,U+1F95B,🥛,:glass-of-milk:
+694,U+2615,☕,:hot-beverage:
+695,U+1F375,🍵,:teacup-without-handle:
+696,U+1F376,🍶,:sake:
+697,U+1F37E,🍾,:bottle-with-popping-cork:
+698,U+1F377,🍷,:wine-glass:
+699,U+1F378,🍸,:cocktail-glass:
+700,U+1F379,🍹,:tropical-drink:
+701,U+1F37A,🍺,:beer-mug:
+702,U+1F37B,🍻,:clinking-beer-mugs:
+703,U+1F942,🥂,:clinking-glasses:
+704,U+1F943,🥃,:tumbler-glass:
+705,U+1F964,🥤,:cup-with-straw:
+706,U+1F962,🥢,:chopsticks:
+707,U+1F37D,🍽,:fork-and-knife-with-plate:
+708,U+1F374,🍴,:fork-and-knife:
+709,U+1F944,🥄,:spoon:
+710,U+1F52A,🔪,:kitchen-knife:
+711,U+1F3FA,🏺,:amphora:
+712,U+1F30D,🌍,:globe-showing-Europe-Africa:
+713,U+1F30E,🌎,:globe-showing-Americas:
+714,U+1F30F,🌏,:globe-showing-Asia-Australia:
+715,U+1F310,🌐,:globe-with-meridians:
+716,U+1F5FA,🗺,:world-map:
+717,U+1F5FE,🗾,:map-of-Japan:
+718,U+1F9ED,🧭,:compass:
+719,U+1F3D4,🏔,:snow-capped-mountain:
+720,U+26F0,⛰,:mountain:
+721,U+1F30B,🌋,:volcano:
+722,U+1F5FB,🗻,:mount-fuji:
+723,U+1F3D5,🏕,:camping:
+724,U+1F3D6,🏖,:beach-with-umbrella:
+725,U+1F3DC,🏜,:desert:
+726,U+1F3DD,🏝,:desert-island:
+727,U+1F3DE,🏞,:national-park:
+728,U+1F3DF,🏟,:stadium:
+729,U+1F3DB,🏛,:classical-building:
+730,U+1F3D7,🏗,:building-construction:
+731,U+1F9F1,🧱,:brick:
+732,U+1F3D8,🏘,:houses:
+733,U+1F3DA,🏚,:derelict-house:
+734,U+1F3E0,🏠,:house:
+735,U+1F3E1,🏡,:house-with-garden:
+736,U+1F3E2,🏢,:office-building:
+737,U+1F3E3,🏣,:Japanese-post-office:
+738,U+1F3E4,🏤,:post-office:
+739,U+1F3E5,🏥,:hospital:
+740,U+1F3E6,🏦,:bank:
+741,U+1F3E8,🏨,:hotel:
+742,U+1F3E9,🏩,:love-hotel:
+743,U+1F3EA,🏪,:convenience-store:
+744,U+1F3EB,🏫,:school:
+745,U+1F3EC,🏬,:department-store:
+746,U+1F3ED,🏭,:factory:
+747,U+1F3EF,🏯,:Japanese-castle:
+748,U+1F3F0,🏰,:castle:
+749,U+1F492,💒,:wedding:
+750,U+1F5FC,🗼,:Tokyo-tower:
+751,U+1F5FD,🗽,:Statue-of-Liberty:
+752,U+26EA,⛪,:church:
+753,U+1F54C,🕌,:mosque:
+754,U+1F54D,🕍,:synagogue:
+755,U+26E9,⛩,:shinto-shrine:
+756,U+1F54B,🕋,:kaaba:
+757,U+26F2,⛲,:fountain:
+758,U+26FA,⛺,:tent:
+759,U+1F301,🌁,:foggy:
+760,U+1F303,🌃,:night-with-stars:
+761,U+1F3D9,🏙,:cityscape:
+762,U+1F304,🌄,:sunrise-over-mountains:
+763,U+1F305,🌅,:sunrise:
+764,U+1F306,🌆,:cityscape-at-dusk:
+765,U+1F307,🌇,:sunset:
+766,U+1F309,🌉,:bridge-at-night:
+767,U+2668,♨,:hot-springs:
+768,U+1F30C,🌌,:milky-way:
+769,U+1F3A0,🎠,:carousel-horse:
+770,U+1F3A1,🎡,:ferris-wheel:
+771,U+1F3A2,🎢,:roller-coaster:
+772,U+1F488,💈,:barber-pole:
+773,U+1F3AA,🎪,:circus-tent:
+774,U+1F682,🚂,:locomotive:
+775,U+1F683,🚃,:railway-car:
+776,U+1F684,🚄,:high-speed-train:
+777,U+1F685,🚅,:bullet-train:
+778,U+1F686,🚆,:train:
+779,U+1F687,🚇,:metro:
+780,U+1F688,🚈,:light-rail:
+781,U+1F689,🚉,:station:
+782,U+1F68A,🚊,:tram:
+783,U+1F69D,🚝,:monorail:
+784,U+1F69E,🚞,:mountain-railway:
+785,U+1F68B,🚋,:tram-car:
+786,U+1F68C,🚌,:bus:
+787,U+1F68D,🚍,:oncoming-bus:
+788,U+1F68E,🚎,:trolleybus:
+789,U+1F690,🚐,:minibus:
+790,U+1F691,🚑,:ambulance:
+791,U+1F692,🚒,:fire-engine:
+792,U+1F693,🚓,:police-car:
+793,U+1F694,🚔,:oncoming-police-car:
+794,U+1F695,🚕,:taxi:
+795,U+1F696,🚖,:oncoming-taxi:
+796,U+1F697,🚗,:automobile:
+797,U+1F698,🚘,:oncoming-automobile:
+798,U+1F699,🚙,:sport-utility-vehicle:
+799,U+1F69A,🚚,:delivery-truck:
+800,U+1F69B,🚛,:articulated-lorry:
+801,U+1F69C,🚜,:tractor:
+802,U+1F6B2,🚲,:bicycle:
+803,U+1F6F4,🛴,:kick-scooter:
+804,U+1F6F9,🛹,:skateboard:
+805,U+1F6F5,🛵,:motor-scooter:
+806,U+1F68F,🚏,:bus-stop:
+807,U+1F6E3,🛣,:motorway:
+808,U+1F6E4,🛤,:railway-track:
+809,U+1F6E2,🛢,:oil-drum:
+810,U+26FD,⛽,:fuel-pump:
+811,U+1F6A8,🚨,:police-car-light:
+812,U+1F6A5,🚥,:horizontal-traffic-light:
+813,U+1F6A6,🚦,:vertical-traffic-light:
+814,U+1F6D1,🛑,:stop-sign:
+815,U+1F6A7,🚧,:construction:
+816,U+2693,⚓,:anchor:
+817,U+26F5,⛵,:sailboat:
+818,U+1F6F6,🛶,:canoe:
+819,U+1F6A4,🚤,:speedboat:
+820,U+1F6F3,🛳,:passenger-ship:
+821,U+26F4,⛴,:ferry:
+822,U+1F6E5,🛥,:motor-boat:
+823,U+1F6A2,🚢,:ship:
+824,U+2708,✈,:airplane:
+825,U+1F6E9,🛩,:small-airplane:
+826,U+1F6EB,🛫,:airplane-departure:
+827,U+1F6EC,🛬,:airplane-arrival:
+828,U+1F4BA,💺,:seat:
+829,U+1F681,🚁,:helicopter:
+830,U+1F69F,🚟,:suspension-railway:
+831,U+1F6A0,🚠,:mountain-cableway:
+832,U+1F6A1,🚡,:aerial-tramway:
+833,U+1F6F0,🛰,:satellite:
+834,U+1F680,🚀,:rocket:
+835,U+1F6F8,🛸,:flying-saucer:
+836,U+1F6CE,🛎,:bellhop-bell:
+837,U+1F9F3,🧳,:luggage:
+838,U+231B,⌛,:hourglass-done:
+839,U+23F3,⏳,:hourglass-not-done:
+840,U+231A,⌚,:watch:
+841,U+23F0,⏰,:alarm-clock:
+842,U+23F1,⏱,:stopwatch:
+843,U+23F2,⏲,:timer-clock:
+844,U+1F570,🕰,:mantelpiece-clock:
+845,U+1F55B,🕛,:twelve-o’clock:
+846,U+1F567,🕧,:twelve-thirty:
+847,U+1F550,🕐,:one-o’clock:
+848,U+1F55C,🕜,:one-thirty:
+849,U+1F551,🕑,:two-o’clock:
+850,U+1F55D,🕝,:two-thirty:
+851,U+1F552,🕒,:three-o’clock:
+852,U+1F55E,🕞,:three-thirty:
+853,U+1F553,🕓,:four-o’clock:
+854,U+1F55F,🕟,:four-thirty:
+855,U+1F554,🕔,:five-o’clock:
+856,U+1F560,🕠,:five-thirty:
+857,U+1F555,🕕,:six-o’clock:
+858,U+1F561,🕡,:six-thirty:
+859,U+1F556,🕖,:seven-o’clock:
+860,U+1F562,🕢,:seven-thirty:
+861,U+1F557,🕗,:eight-o’clock:
+862,U+1F563,🕣,:eight-thirty:
+863,U+1F558,🕘,:nine-o’clock:
+864,U+1F564,🕤,:nine-thirty:
+865,U+1F559,🕙,:ten-o’clock:
+866,U+1F565,🕥,:ten-thirty:
+867,U+1F55A,🕚,:eleven-o’clock:
+868,U+1F566,🕦,:eleven-thirty:
+869,U+1F311,🌑,:new-moon:
+870,U+1F312,🌒,:waxing-crescent-moon:
+871,U+1F313,🌓,:first-quarter-moon:
+872,U+1F314,🌔,:waxing-gibbous-moon:
+873,U+1F315,🌕,:full-moon:
+874,U+1F316,🌖,:waning-gibbous-moon:
+875,U+1F317,🌗,:last-quarter-moon:
+876,U+1F318,🌘,:waning-crescent-moon:
+877,U+1F319,🌙,:crescent-moon:
+878,U+1F31A,🌚,:new-moon-face:
+879,U+1F31B,🌛,:first-quarter-moon-face:
+880,U+1F31C,🌜,:last-quarter-moon-face:
+881,U+1F321,🌡,:thermometer:
+882,U+2600,☀,:sun:
+883,U+1F31D,🌝,:full-moon-face:
+884,U+1F31E,🌞,:sun-with-face:
+885,U+2B50,⭐,:star:
+886,U+1F31F,🌟,:glowing-star:
+887,U+1F320,🌠,:shooting-star:
+888,U+2601,☁,:cloud:
+889,U+26C5,⛅,:sun-behind-cloud:
+890,U+26C8,⛈,:cloud-with-lightning-and-rain:
+891,U+1F324,🌤,:sun-behind-small-cloud:
+892,U+1F325,🌥,:sun-behind-large-cloud:
+893,U+1F326,🌦,:sun-behind-rain-cloud:
+894,U+1F327,🌧,:cloud-with-rain:
+895,U+1F328,🌨,:cloud-with-snow:
+896,U+1F329,🌩,:cloud-with-lightning:
+897,U+1F32A,🌪,:tornado:
+898,U+1F32B,🌫,:fog:
+899,U+1F32C,🌬,:wind-face:
+900,U+1F300,🌀,:cyclone:
+901,U+1F308,🌈,:rainbow:
+902,U+1F302,🌂,:closed-umbrella:
+903,U+2602,☂,:umbrella:
+904,U+2614,☔,:umbrella-with-rain-drops:
+905,U+26F1,⛱,:umbrella-on-ground:
+906,U+26A1,⚡,:high-voltage:
+907,U+2744,❄,:snowflake:
+908,U+2603,☃,:snowman:
+909,U+26C4,⛄,:snowman-without-snow:
+910,U+2604,☄,:comet:
+911,U+1F525,🔥,:fire:
+912,U+1F4A7,💧,:droplet:
+913,U+1F30A,🌊,:water-wave:
+914,U+1F383,🎃,:jack-o-lantern:
+915,U+1F384,🎄,:Christmas-tree:
+916,U+1F386,🎆,:fireworks:
+917,U+1F387,🎇,:sparkler:
+918,U+1F9E8,🧨,:firecracker:
+919,U+2728,✨,:sparkles:
+920,U+1F388,🎈,:balloon:
+921,U+1F389,🎉,:party-popper:
+922,U+1F38A,🎊,:confetti-ball:
+923,U+1F38B,🎋,:tanabata-tree:
+924,U+1F38D,🎍,:pine-decoration:
+925,U+1F38E,🎎,:Japanese-dolls:
+926,U+1F38F,🎏,:carp-streamer:
+927,U+1F390,🎐,:wind-chime:
+928,U+1F391,🎑,:moon-viewing-ceremony:
+929,U+1F9E7,🧧,:red-envelope:
+930,U+1F380,🎀,:ribbon:
+931,U+1F381,🎁,:wrapped-gift:
+932,U+1F397,🎗,:reminder-ribbon:
+933,U+1F39F,🎟,:admission-tickets:
+934,U+1F3AB,🎫,:ticket:
+935,U+1F396,🎖,:military-medal:
+936,U+1F3C6,🏆,:trophy:
+937,U+1F3C5,🏅,:sports-medal:
+938,U+1F947,🥇,:1st-place-medal:
+939,U+1F948,🥈,:2nd-place-medal:
+940,U+1F949,🥉,:3rd-place-medal:
+941,U+26BD,⚽,:soccer-ball:
+942,U+26BE,⚾,:baseball:
+943,U+1F94E,🥎,:softball:
+944,U+1F3C0,🏀,:basketball:
+945,U+1F3D0,🏐,:volleyball:
+946,U+1F3C8,🏈,:american-football:
+947,U+1F3C9,🏉,:rugby-football:
+948,U+1F3BE,🎾,:tennis:
+949,U+1F94F,🥏,:flying-disc:
+950,U+1F3B3,🎳,:bowling:
+951,U+1F3CF,🏏,:cricket-game:
+952,U+1F3D1,🏑,:field-hockey:
+953,U+1F3D2,🏒,:ice-hockey:
+954,U+1F94D,🥍,:lacrosse:
+955,U+1F3D3,🏓,:ping-pong:
+956,U+1F3F8,🏸,:badminton:
+957,U+1F94A,🥊,:boxing-glove:
+958,U+1F94B,🥋,:martial-arts-uniform:
+959,U+1F945,🥅,:goal-net:
+960,U+26F3,⛳,:flag-in-hole:
+961,U+26F8,⛸,:ice-skate:
+962,U+1F3A3,🎣,:fishing-pole:
+963,U+1F3BD,🎽,:running-shirt:
+964,U+1F3BF,🎿,:skis:
+965,U+1F6F7,🛷,:sled:
+966,U+1F94C,🥌,:curling-stone:
+967,U+1F3AF,🎯,:direct-hit:
+968,U+1F3B1,🎱,:pool-8-ball:
+969,U+1F52E,🔮,:crystal-ball:
+970,U+1F9FF,🧿,:nazar-amulet:
+971,U+1F3AE,🎮,:video-game:
+972,U+1F579,🕹,:joystick:
+973,U+1F3B0,🎰,:slot-machine:
+974,U+1F3B2,🎲,:game-die:
+975,U+1F9E9,🧩,:jigsaw:
+976,U+1F9F8,🧸,:teddy-bear:
+977,U+2660,♠️,:spade-suit:
+978,U+2665,♥️,:heart-suit:
+979,U+2666,♦️,:diamond-suit:
+980,U+2663,♣️,:club-suit:
+981,U+265F,♟,:chess-pawn:
+982,U+1F0CF,🃏,:joker:
+983,U+1F004,🀄,:mahjong-red-dragon:
+984,U+1F3B4,🎴,:flower-playing-cards:
+985,U+1F3AD,🎭,:performing-arts:
+986,U+1F5BC,🖼,:framed-picture:
+987,U+1F3A8,🎨,:artist-palette:
+988,U+1F9F5,🧵,:thread:
+989,U+1F9F6,🧶,:yarn:
+990,U+1F507,🔇,:muted-speaker:
+991,U+1F508,🔈,:speaker-low-volume:
+992,U+1F509,🔉,:speaker-medium-volume:
+993,U+1F50A,🔊,:speaker-high-volume:
+994,U+1F4E2,📢,:loudspeaker:
+995,U+1F4E3,📣,:megaphone:
+996,U+1F4EF,📯,:postal-horn:
+997,U+1F514,🔔,:bell:
+998,U+1F515,🔕,:bell-with-slash:
+999,U+1F3BC,🎼,:musical-score:
+1000,U+1F3B5,🎵,:musical-note:
+1001,U+1F3B6,🎶,:musical-notes:
+1002,U+1F399,🎙,:studio-microphone:
+1003,U+1F39A,🎚,:level-slider:
+1004,U+1F39B,🎛,:control-knobs:
+1005,U+1F3A4,🎤,:microphone:
+1006,U+1F3A7,🎧,:headphone:
+1007,U+1F4FB,📻,:radio:
+1008,U+1F3B7,🎷,:saxophone:
+1009,U+1F3B8,🎸,:guitar:
+1010,U+1F3B9,🎹,:musical-keyboard:
+1011,U+1F3BA,🎺,:trumpet:
+1012,U+1F3BB,🎻,:violin:
+1013,U+1F941,🥁,:drum:
+1014,U+1F4F1,📱,:mobile-phone:
+1015,U+1F4F2,📲,:mobile-phone-with-arrow:
+1016,U+260E,☎,:telephone:
+1017,U+1F4DE,📞,:telephone-receiver:
+1018,U+1F4DF,📟,:pager:
+1019,U+1F4E0,📠,:fax-machine:
+1020,U+1F50B,🔋,:battery:
+1021,U+1F50C,🔌,:electric-plug:
+1022,U+1F4BB,💻,:laptop-computer:
+1023,U+1F5A5,🖥,:desktop-computer:
+1024,U+1F5A8,🖨,:printer:
+1025,U+2328,⌨,:keyboard:
+1026,U+1F5B1,🖱,:computer-mouse:
+1027,U+1F5B2,🖲,:trackball:
+1028,U+1F4BD,💽,:computer-disk:
+1029,U+1F4BE,💾,:floppy-disk:
+1030,U+1F4BF,💿,:optical-disk:
+1031,U+1F4C0,📀,:dvd:
+1032,U+1F9EE,🧮,:abacus:
+1033,U+1F3A5,🎥,:movie-camera:
+1034,U+1F39E,🎞,:film-frames:
+1035,U+1F4FD,📽,:film-projector:
+1036,U+1F3AC,🎬,:clapper-board:
+1037,U+1F4FA,📺,:television:
+1038,U+1F4F7,📷,:camera:
+1039,U+1F4F8,📸,:camera-with-flash:
+1040,U+1F4F9,📹,:video-camera:
+1041,U+1F4FC,📼,:videocassette:
+1042,U+1F50D,🔍,:magnifying-glass-tilted-left:
+1043,U+1F50E,🔎,:magnifying-glass-tilted-right:
+1044,U+1F56F,🕯,:candle:
+1045,U+1F4A1,💡,:light-bulb:
+1046,U+1F526,🔦,:flashlight:
+1047,U+1F3EE,🏮,:red-paper-lantern:
+1048,U+1F4D4,📔,:notebook-with-decorative-cover:
+1049,U+1F4D5,📕,:closed-book:
+1050,U+1F4D6,📖,:open-book:
+1051,U+1F4D7,📗,:green-book:
+1052,U+1F4D8,📘,:blue-book:
+1053,U+1F4D9,📙,:orange-book:
+1054,U+1F4DA,📚,:books:
+1055,U+1F4D3,📓,:notebook:
+1056,U+1F4D2,📒,:ledger:
+1057,U+1F4C3,📃,:page-with-curl:
+1058,U+1F4DC,📜,:scroll:
+1059,U+1F4C4,📄,:page-facing-up:
+1060,U+1F4F0,📰,:newspaper:
+1061,U+1F5DE,🗞,:rolled-up-newspaper:
+1062,U+1F4D1,📑,:bookmark-tabs:
+1063,U+1F516,🔖,:bookmark:
+1064,U+1F3F7,🏷,:label:
+1065,U+1F4B0,💰,:money-bag:
+1066,U+1F4B4,💴,:yen-banknote:
+1067,U+1F4B5,💵,:dollar-banknote:
+1068,U+1F4B6,💶,:euro-banknote:
+1069,U+1F4B7,💷,:pound-banknote:
+1070,U+1F4B8,💸,:money-with-wings:
+1071,U+1F4B3,💳,:credit-card:
+1072,U+1F9FE,🧾,:receipt:
+1073,U+1F4B9,💹,:chart-increasing-with-yen:
+1074,U+1F4B1,💱,:currency-exchange:
+1075,U+1F4B2,💲,:heavy-dollar-sign:
+1076,U+2709,✉,:envelope:
+1077,U+1F4E7,📧,:e-mail:
+1078,U+1F4E8,📨,:incoming-envelope:
+1079,U+1F4E9,📩,:envelope-with-arrow:
+1080,U+1F4E4,📤,:outbox-tray:
+1081,U+1F4E5,📥,:inbox-tray:
+1082,U+1F4E6,📦,:package:
+1083,U+1F4EB,📫,:closed-mailbox-with-raised-flag:
+1084,U+1F4EA,📪,:closed-mailbox-with-lowered-flag:
+1085,U+1F4EC,📬,:open-mailbox-with-raised-flag:
+1086,U+1F4ED,📭,:open-mailbox-with-lowered-flag:
+1087,U+1F4EE,📮,:postbox:
+1088,U+1F5F3,🗳,:ballot-box-with-ballot:
+1089,U+270F,✏,:pencil:
+1090,U+2712,✒,:black-nib:
+1091,U+1F58B,🖋,:fountain-pen:
+1092,U+1F58A,🖊,:pen:
+1093,U+1F58C,🖌,:paintbrush:
+1094,U+1F58D,🖍,:crayon:
+1095,U+1F4DD,📝,:memo:
+1096,U+1F4BC,💼,:briefcase:
+1097,U+1F4C1,📁,:file-folder:
+1098,U+1F4C2,📂,:open-file-folder:
+1099,U+1F5C2,🗂,:card-index-dividers:
+1100,U+1F4C5,📅,:calendar:
+1101,U+1F4C6,📆,:tear-off-calendar:
+1102,U+1F5D2,🗒,:spiral-notepad:
+1103,U+1F5D3,🗓,:spiral-calendar:
+1104,U+1F4C7,📇,:card-index:
+1105,U+1F4C8,📈,:chart-increasing:
+1106,U+1F4C9,📉,:chart-decreasing:
+1107,U+1F4CA,📊,:bar-chart:
+1108,U+1F4CB,📋,:clipboard:
+1109,U+1F4CC,📌,:pushpin:
+1110,U+1F4CD,📍,:round-pushpin:
+1111,U+1F4CE,📎,:paperclip:
+1112,U+1F587,🖇,:linked-paperclips:
+1113,U+1F4CF,📏,:straight-ruler:
+1114,U+1F4D0,📐,:triangular-ruler:
+1115,U+2702,✂,:scissors:
+1116,U+1F5C3,🗃,:card-file-box:
+1117,U+1F5C4,🗄,:file-cabinet:
+1118,U+1F5D1,🗑,:wastebasket:
+1119,U+1F512,🔒,:locked:
+1120,U+1F513,🔓,:unlocked:
+1121,U+1F50F,🔏,:locked-with-pen:
+1122,U+1F510,🔐,:locked-with-key:
+1123,U+1F511,🔑,:key:
+1124,U+1F5DD,🗝,:old-key:
+1125,U+1F528,🔨,:hammer:
+1126,U+26CF,⛏,:pick:
+1127,U+2692,⚒,:hammer-and-pick:
+1128,U+1F6E0,🛠,:hammer-and-wrench:
+1129,U+1F5E1,🗡,:dagger:
+1130,U+2694,⚔,:crossed-swords:
+1131,U+1F52B,🔫,:pistol:
+1132,U+1F3F9,🏹,:bow-and-arrow:
+1133,U+1F6E1,🛡,:shield:
+1134,U+1F527,🔧,:wrench:
+1135,U+1F529,🔩,:nut-and-bolt:
+1136,U+2699,⚙,:gear:
+1137,U+1F5DC,🗜,:clamp:
+1138,U+2696,⚖,:balance-scale:
+1139,U+1F517,🔗,:link:
+1140,U+26D3,⛓,:chains:
+1141,U+1F9F0,🧰,:toolbox:
+1142,U+1F9F2,🧲,:magnet:
+1143,U+2697,⚗,:alembic:
+1144,U+1F9EA,🧪,:test-tube:
+1145,U+1F9EB,🧫,:petri-dish:
+1146,U+1F9EC,🧬,:dna:
+1147,U+1F52C,🔬,:microscope:
+1148,U+1F52D,🔭,:telescope:
+1149,U+1F4E1,📡,:satellite-antenna:
+1150,U+1F489,💉,:syringe:
+1151,U+1F48A,💊,:pill:
+1152,U+1F6AA,🚪,:door:
+1153,U+1F6CF,🛏,:bed:
+1154,U+1F6CB,🛋,:couch-and-lamp:
+1155,U+1F6BD,🚽,:toilet:
+1156,U+1F6BF,🚿,:shower:
+1157,U+1F6C1,🛁,:bathtub:
+1158,U+1F9F4,🧴,:lotion-bottle:
+1159,U+1F9F7,🧷,:safety-pin:
+1160,U+1F9F9,🧹,:broom:
+1161,U+1F9FA,🧺,:basket:
+1162,U+1F9FB,🧻,:roll-of-paper:
+1163,U+1F9FC,🧼,:soap:
+1164,U+1F9FD,🧽,:sponge:
+1165,U+1F9EF,🧯,:fire-extinguisher:
+1166,U+1F6D2,🛒,:shopping-cart:
+1167,U+1F6AC,🚬,:cigarette:
+1168,U+26B0,⚰,:coffin:
+1169,U+26B1,⚱,:funeral-urn:
+1170,U+1F5FF,🗿,:moai:
+1171,U+1F3E7,🏧,:ATM-sign:
+1172,U+1F6AE,🚮,:litter-in-bin-sign:
+1173,U+1F6B0,🚰,:potable-water:
+1174,U+267F,♿,:wheelchair-symbol:
+1175,U+1F6B9,🚹,:men’s-room:
+1176,U+1F6BA,🚺,:women’s-room:
+1177,U+1F6BB,🚻,:restroom:
+1178,U+1F6BC,🚼,:baby-symbol:
+1179,U+1F6BE,🚾,:water-closet:
+1180,U+1F6C2,🛂,:passport-control:
+1181,U+1F6C3,🛃,:customs:
+1182,U+1F6C4,🛄,:baggage-claim:
+1183,U+1F6C5,🛅,:left-luggage:
+1184,U+26A0,⚠,:warning:
+1185,U+1F6B8,🚸,:children-crossing:
+1186,U+26D4,⛔,:no-entry:
+1187,U+1F6AB,🚫,:prohibited:
+1188,U+1F6B3,🚳,:no-bicycles:
+1189,U+1F6AD,🚭,:no-smoking:
+1190,U+1F6AF,🚯,:no-littering:
+1191,U+1F6B1,🚱,:non-potable-water:
+1192,U+1F6B7,🚷,:no-pedestrians:
+1193,U+1F4F5,📵,:no-mobile-phones:
+1194,U+1F51E,🔞,:no-one-under-eighteen:
+1195,U+2622,☢,:radioactive:
+1196,U+2623,☣,:biohazard:
+1197,U+2B06,⬆,:up-arrow:
+1198,U+2197,↗,:up-right-arrow:
+1199,U+27A1,➡,:right-arrow:
+1200,U+2198,↘,:down-right-arrow:
+1201,U+2B07,⬇,:down-arrow:
+1202,U+2199,↙,:down-left-arrow:
+1203,U+2B05,⬅,:left-arrow:
+1204,U+2196,↖,:up-left-arrow:
+1205,U+2195,↕,:up-down-arrow:
+1206,U+2194,↔,:left-right-arrow:
+1207,U+21A9,↩,:right-arrow-curving-left:
+1208,U+21AA,↪,:left-arrow-curving-right:
+1209,U+2934,⤴,:right-arrow-curving-up:
+1210,U+2935,⤵,:right-arrow-curving-down:
+1211,U+1F503,🔃,:clockwise-vertical-arrows:
+1212,U+1F504,🔄,:counterclockwise-arrows-button:
+1213,U+1F519,🔙,:BACK-arrow:
+1214,U+1F51A,🔚,:END-arrow:
+1215,U+1F51B,🔛,:ON!-arrow:
+1216,U+1F51C,🔜,:SOON-arrow:
+1217,U+1F51D,🔝,:TOP-arrow:
+1218,U+1F6D0,🛐,:place-of-worship:
+1219,U+269B,⚛,:atom-symbol:
+1220,U+1F549,🕉,:om:
+1221,U+2721,✡,:star-of-David:
+1222,U+2638,☸,:wheel-of-dharma:
+1223,U+262F,☯,:yin-yang:
+1224,U+271D,✝,:latin-cross:
+1225,U+2626,☦,:orthodox-cross:
+1226,U+262A,☪,:star-and-crescent:
+1227,U+262E,☮,:peace-symbol:
+1228,U+1F54E,🕎,:menorah:
+1229,U+1F52F,🔯,:dotted-six-pointed-star:
+1230,U+2648,♈,:Aries:
+1231,U+2649,♉,:Taurus:
+1232,U+264A,♊,:Gemini:
+1233,U+264B,♋,:Cancer:
+1234,U+264C,♌,:Leo:
+1235,U+264D,♍,:Virgo:
+1236,U+264E,♎,:Libra:
+1237,U+264F,♏,:Scorpio:
+1238,U+2650,♐,:Sagittarius:
+1239,U+2651,♑,:Capricorn:
+1240,U+2652,♒,:Aquarius:
+1241,U+2653,♓,:Pisces:
+1242,U+26CE,⛎,:Ophiuchus:
+1243,U+1F500,🔀,:shuffle-tracks-button:
+1244,U+1F501,🔁,:repeat-button:
+1245,U+1F502,🔂,:repeat-single-button:
+1246,U+25B6,▶,:play-button:
+1247,U+23E9,⏩,:fast-forward-button:
+1248,U+23ED,⏭,:next-track-button:
+1249,U+23EF,⏯,:play-or-pause-button:
+1250,U+25C0,◀,:reverse-button:
+1251,U+23EA,⏪,:fast-reverse-button:
+1252,U+23EE,⏮,:last-track-button:
+1253,U+1F53C,🔼,:upwards-button:
+1254,U+23EB,⏫,:fast-up-button:
+1255,U+1F53D,🔽,:downwards-button:
+1256,U+23EC,⏬,:fast-down-button:
+1257,U+23F8,⏸,:pause-button:
+1258,U+23F9,⏹,:stop-button:
+1259,U+23FA,⏺,:record-button:
+1260,U+23CF,⏏,:eject-button:
+1261,U+1F3A6,🎦,:cinema:
+1262,U+1F505,🔅,:dim-button:
+1263,U+1F506,🔆,:bright-button:
+1264,U+1F4F6,📶,:antenna-bars:
+1265,U+1F4F3,📳,:vibration-mode:
+1266,U+1F4F4,📴,:mobile-phone-off:
+1267,U+2640,♀,:female-sign:
+1268,U+2642,♂,:male-sign:
+1269,U+2695,⚕,:medical-symbol:
+1270,U+267E,♾,:infinity:
+1271,U+267B,♻,:recycling-symbol:
+1272,U+269C,⚜,:fleur-de-lis:
+1273,U+1F531,🔱,:trident-emblem:
+1274,U+1F4DB,📛,:name-badge:
+1275,U+1F530,🔰,:Japanese-symbol-for-beginner:
+1276,U+2B55,⭕,:heavy-large-circle:
+1277,U+2705,✅,:white-heavy-check-mark:
+1278,U+2611,☑,:ballot-box-with-check:
+1279,U+2714,✔,:heavy-check-mark:
+1280,U+2716,✖,:heavy-multiplication-x:
+1281,U+274C,❌,:cross-mark:
+1282,U+274E,❎,:cross-mark-button:
+1283,U+2795,➕,:heavy-plus-sign:
+1284,U+2796,➖,:heavy-minus-sign:
+1285,U+2797,➗,:heavy-division-sign:
+1286,U+27B0,➰,:curly-loop:
+1287,U+27BF,➿,:double-curly-loop:
+1288,U+303D,〽,:part-alternation-mark:
+1289,U+2733,✳,:eight-spoked-asterisk:
+1290,U+2734,✴,:eight-pointed-star:
+1291,U+2747,❇,:sparkle:
+1292,U+203C,‼,:double-exclamation-mark:
+1293,U+2049,⁉,:exclamation-question-mark:
+1294,U+2753,❓,:question-mark:
+1295,U+2754,❔,:white-question-mark:
+1296,U+2755,❕,:white-exclamation-mark:
+1297,U+2757,❗,:exclamation-mark:
+1298,U+3030,〰,:wavy-dash:
+1299,U+00A9,©,:copyright:
+1300,U+00AE,®,:registered:
+1301,U+2122,™,:trade-mark:
+1302,U+0023 U+FE0F U+20E3,#️⃣,:keycap;-#:
+1303,U+002A U+FE0F U+20E3,*️⃣,:keycap;-*:
+1304,U+0030 U+FE0F U+20E3,0️⃣,:keycap;-0:
+1305,U+0031 U+FE0F U+20E3,1️⃣,:keycap;-1:
+1306,U+0032 U+FE0F U+20E3,2️⃣,:keycap;-2:
+1307,U+0033 U+FE0F U+20E3,3️⃣,:keycap;-3:
+1308,U+0034 U+FE0F U+20E3,4️⃣,:keycap;-4:
+1309,U+0035 U+FE0F U+20E3,5️⃣,:keycap;-5:
+1310,U+0036 U+FE0F U+20E3,6️⃣,:keycap;-6:
+1311,U+0037 U+FE0F U+20E3,7️⃣,:keycap;-7:
+1312,U+0038 U+FE0F U+20E3,8️⃣,:keycap;-8:
+1313,U+0039 U+FE0F U+20E3,9️⃣,:keycap;-9:
+1314,U+1F51F,🔟,:keycap;-10:
+1315,U+1F4AF,💯,:hundred-points:
+1316,U+1F520,🔠,:input-latin-uppercase:
+1317,U+1F521,🔡,:input-latin-lowercase:
+1318,U+1F522,🔢,:input-numbers:
+1319,U+1F523,🔣,:input-symbols:
+1320,U+1F524,🔤,:input-latin-letters:
+1321,U+1F170,🅰,:A-button-(blood-type):
+1322,U+1F18E,🆎,:AB-button-(blood-type):
+1323,U+1F171,🅱,:B-button-(blood-type):
+1324,U+1F191,🆑,:CL-button:
+1325,U+1F192,🆒,:COOL-button:
+1326,U+1F193,🆓,:FREE-button:
+1327,U+2139,ℹ,:information:
+1328,U+1F194,🆔,:ID-button:
+1329,U+24C2,Ⓜ,:circled-M:
+1330,U+1F195,🆕,:NEW-button:
+1331,U+1F196,🆖,:NG-button:
+1332,U+1F17E,🅾,:O-button-(blood-type):
+1333,U+1F197,🆗,:OK-button:
+1334,U+1F17F,🅿,:P-button:
+1335,U+1F198,🆘,:SOS-button:
+1336,U+1F199,🆙,:UP!-button:
+1337,U+1F19A,🆚,:VS-button:
+1338,U+1F201,🈁,:Japanese-“here”-button:
+1339,U+1F202,🈂,:Japanese-“service-charge”-button:
+1340,U+1F237,🈷,:Japanese-“monthly-amount”-button:
+1341,U+1F236,🈶,:Japanese-“not-free-of-charge”-button:
+1342,U+1F22F,🈯,:Japanese-“reserved”-button:
+1343,U+1F250,🉐,:Japanese-“bargain”-button:
+1344,U+1F239,🈹,:Japanese-“discount”-button:
+1345,U+1F21A,🈚,:Japanese-“free-of-charge”-button:
+1346,U+1F232,🈲,:Japanese-“prohibited”-button:
+1347,U+1F251,🉑,:Japanese-“acceptable”-button:
+1348,U+1F238,🈸,:Japanese-“application”-button:
+1349,U+1F234,🈴,:Japanese-“passing-grade”-button:
+1350,U+1F233,🈳,:Japanese-“vacancy”-button:
+1351,U+3297,㊗,:Japanese-“congratulations”-button:
+1352,U+3299,㊙,:Japanese-“secret”-button:
+1353,U+1F23A,🈺,:Japanese-“open-for-business”-button:
+1354,U+1F235,🈵,:Japanese-“no-vacancy”-button:
+1355,U+1F534,🔴,:red-circle:
+1356,U+1F535,🔵,:blue-circle:
+1357,U+26AA,⚪,:white-circle:
+1358,U+26AB,⚫,:black-circle:
+1359,U+2B1C,⬜,:white-large-square:
+1360,U+2B1B,⬛,:black-large-square:
+1361,U+25FC,◼,:black-medium-square:
+1362,U+25FB,◻,:white-medium-square:
+1363,U+25FD,◽,:white-medium-small-square:
+1364,U+25FE,◾,:black-medium-small-square:
+1365,U+25AB,▫,:white-small-square:
+1366,U+25AA,▪,:black-small-square:
+1367,U+1F536,🔶,:large-orange-diamond:
+1368,U+1F537,🔷,:large-blue-diamond:
+1369,U+1F538,🔸,:small-orange-diamond:
+1370,U+1F539,🔹,:small-blue-diamond:
+1371,U+1F53A,🔺,:red-triangle-pointed-up:
+1372,U+1F53B,🔻,:red-triangle-pointed-down:
+1373,U+1F4A0,💠,:diamond-with-a-dot:
+1374,U+1F518,🔘,:radio-button:
+1375,U+1F532,🔲,:black-square-button:
+1376,U+1F533,🔳,:white-square-button:
+1377,U+1F3C1,🏁,:chequered-flag:
+1378,U+1F6A9,🚩,:triangular-flag:
+1379,U+1F38C,🎌,:crossed-flags:
+1380,U+1F3F4,🏴,:black-flag:
+1381,U+1F3F3,🏳,:white-flag:
+1382,U+1F3F3 U+FE0F U+200D U+1F308,🏳️‍🌈,:rainbow-flag:
+1383,U+1F3F4 U+200D U+2620 U+FE0F,🏴‍☠️,:pirate-flag:
