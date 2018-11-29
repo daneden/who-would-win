@@ -4,7 +4,7 @@ const emojiCsv =  './emoji.csv'
 // Pick a random element from an array
 const sample = (array) => array[Math.floor(Math.random() * array.length)]
 
-csv().fromFile('./emoji.csv').then(emoji => {
+csv().fromFile(emojiCsv).then(emoji => {
   let [a, b] = [sample(emoji), sample(emoji)]
 
   // Naive safeguard against picking the same element twice
