@@ -1,7 +1,9 @@
 const T = require("twit")
 const csv = require("csvtojson")
 const dotenv = require("dotenv").load({ silent: true })
-const { augmentTwit, postPoll, getCard } = require("./twitter.js")
+
+const { augmentTwit, postPoll, getCard } = require("./twitter")
+const { buildString, sample } = require("./utils")
 
 // Path to our Emoji CSV
 const emojiCsv = "./emoji.csv"
@@ -27,14 +29,6 @@ const twit = new T({
 
 // Make our Twit instance able to post to the poll cards API
 augmentTwit(twit)
-
-// Pick a random element from an array
-const sample = array => array[Math.floor(Math.random() * array.length)]
-
-const buildString = emoji => {
-  let label = emoji.shortname.replace(/:/g, "").replace(/-/g, " ")
-  return `${emoji.utf} ${label}`
-}
 
 // Parse the CSV, sample it for two emoji, then post the poll
 csv()

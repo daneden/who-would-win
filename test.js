@@ -1,12 +1,7 @@
 const csv = require("csvtojson")
 const emojiCsv = "./emoji.csv"
 
-const sample = array => array[Math.floor(Math.random() * array.length)]
-
-const buildString = emoji => {
-  let label = emoji.shortname.replace(/:/g, "").replace(/-/g, " ")
-  return `${emoji.utf} ${label}`
-}
+const { buildString, sample } = require("./utils")
 
 csv()
   .fromFile(emojiCsv)
