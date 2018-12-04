@@ -1,3 +1,4 @@
+// @flow
 type Emoji = {
   codename: string,
   number: string,
@@ -7,10 +8,11 @@ type Emoji = {
 
 // Pick a random element from an array
 // TODO: Fix `any` type to be type T so that: Array<T> => T
-const sample = (array: Array<any>): any =>
-  array[Math.floor(Math.random() * array.length)]
+function sample<T>(array: Array<T>): T {
+  return array[Math.floor(Math.random() * array.length)]
+}
 
-const buildStringFromEmoji = (emoji: Emoji): string => {
+function buildStringFromEmoji(emoji: Emoji): string {
   let label = emoji.shortname.replace(/:/g, "").replace(/-/g, " ")
   return `${emoji.utf} ${label}`
 }

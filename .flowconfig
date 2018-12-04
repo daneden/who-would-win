@@ -1,6 +1,6 @@
 [ignore]
 .*/node_modules/.*
-./lib/*
+.*/lib/*
 
 [include]
 
@@ -10,6 +10,5 @@ flow-typed
 [lints]
 
 [options]
-all=true
 
 [strict]
