@@ -11,7 +11,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged && npm run flow-build"
+      "pre-commit": "npm run flow-build && lint-staged"
     }
   },
   "lint-staged": {
