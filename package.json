@@ -11,7 +11,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged && npm run flow-build"
     }
   },
   "lint-staged": {
@@ -21,8 +21,19 @@
     ]
   },
   "devDependencies": {
+    "flow-bin": "^0.87.0",
+    "flow-remove-types": "^1.2.3",
     "husky": "^1.2.0",
     "lint-staged": "^8.1.0",
     "prettier": "^1.15.3"
+  },
+  "scripts": {
+    "flow": "flow",
+    "flow-check": "flow check ./src/",
+    "flow-build": "flow-remove-types ./src/ -d ./lib/ --all --pretty",
+    "pretest": "npm run flow-build",
+    "test": "node ./lib/test.js",
+    "prestart": "npm run flow-build",
+    "start": "node ./lib/index.js"
   }
 }
