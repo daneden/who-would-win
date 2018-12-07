@@ -34,7 +34,9 @@ augmentTwit(twit)
 csv()
   .fromFile(emojiCsv)
   .then(emoji => {
-    const [a, b] = [sample(emoji), sample(emoji)].map(buildString)
+    let [a, b] = [sample(emoji), sample(emoji)].map(buildString)
+
+    if (a === b) b = buildString(sample(emoji))
 
     postPoll(twit, "Who would win in a fight?", [a, b])
       .then(t => getCard(twit, t))
