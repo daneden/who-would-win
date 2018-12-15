@@ -3,7 +3,8 @@ const Q = require("q")
 // These functions courtesy @airhadoken: https://gist.github.com/airhadoken/8742d16a2a190a3505a2
 // augmentTwit will take as its argument a Twit instance and return a version of it that
 // hits a private API with iPhone user agent headers to allow poll posting.
-function augmentTwit(twit) {
+// TODO: Fix `any` type
+function augmentTwit(twit: any): any {
   twit._buildReqOpts = function(method, path, params, isStreaming, callback) {
     var helpers = require("twit/lib/helpers")
     var endpoints = require("twit/lib/endpoints")
@@ -117,7 +118,13 @@ function augmentTwit(twit) {
   return twit
 }
 
-function postPoll(oauth, statustext, entries, duration) {
+// TODO: Fix `any` type
+function postPoll(
+  oauth: any,
+  statustext: string,
+  entries: Array<string>,
+  duration: number
+): any {
   var params = {
     "twitter:api:api:endpoint": "1",
     "twitter:card": "poll" + entries.length + "choice_text_only",
@@ -174,7 +181,8 @@ function postPoll(oauth, statustext, entries, duration) {
     })
 }
 
-function getCard(oauth, tweet) {
+// TODO: Fix `any` type
+function getCard(oauth: any, tweet: any): Promise<any> {
   return Q(oauth)
     .ninvoke("get", "statuses/show/" + tweet.id_str, {
       cards_platform: "iPhone-13",
