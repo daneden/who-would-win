@@ -1,1 +1,1 @@
-worker: node ./lib/index.js
+worker: npm run start
