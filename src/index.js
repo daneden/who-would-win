@@ -6,7 +6,7 @@ const { augmentTwit, postPoll, getCard } = require("./twitter")
 const { buildStringFromEmoji, sample } = require("./utils")
 
 // Path to our Emoji CSV
-const emojiCsv = "../emoji.csv"
+const emojiCsv = "./emoji.csv"
 
 // Twitter doesn't allow arbitrary apps to access the cards creation API, so we have to use
 // the consumer key for the official app.
