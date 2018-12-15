@@ -31,10 +31,10 @@
   "scripts": {
     "flow": "flow",
     "flow-check": "flow check ./src/",
-    "flow-build": "flow-remove-types ./src/ -d ./lib/ --all --pretty",
+    "flow-build": "flow-remove-types ./src/ -d ./dist/ --all --pretty",
     "pretest": "npm run flow-build",
-    "test": "node ./lib/test.js",
+    "test": "node ./dist/test.js",
     "prestart": "npm run flow-build",
-    "start": "node ./lib/index.js"
+    "start": "node ./dist/index.js"
   }
 }
