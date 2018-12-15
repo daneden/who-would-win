@@ -1,12 +1,16 @@
 const csv = require("csvtojson")
-const emojiCsv = "./emoji.csv"
 
-const { buildStringFromEmoji, sample } = require("./utils")
+const {
+  EMOJI_CSV_PATH,
+  buildStringFromEmoji,
+  getFighters,
+  sample,
+} = require("./utils")
 
 csv()
-  .fromFile(emojiCsv)
+  .fromFile(EMOJI_CSV_PATH)
   .then(emoji => {
-    const [a, b] = [sample(emoji), sample(emoji)].map(buildStringFromEmoji)
+    const [a, b] = getFighters(emoji)
 
     console.log(`
     The two fighters are:

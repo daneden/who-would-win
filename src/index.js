@@ -3,10 +3,12 @@ const csv = require("csvtojson")
 const dotenv = require("dotenv").load({ silent: true })
 
 const { augmentTwit, postPoll, getCard } = require("./twitter")
-const { buildStringFromEmoji, sample } = require("./utils")
-
-// Path to our Emoji CSV
-const emojiCsv = "./emoji.csv"
+const {
+  EMOJI_CSV_PATH,
+  buildStringFromEmoji,
+  getFighters,
+  sample,
+} = require("./utils")
 
 // Twitter doesn't allow arbitrary apps to access the cards creation API, so we have to use
 // the consumer key for the official app.
@@ -32,9 +34,9 @@ augmentTwit(twit)
 
 // Parse the CSV, sample it for two emoji, then post the poll
 csv()
-  .fromFile(emojiCsv)
+  .fromFile(EMOJI_CSV_PATH)
   .then(emoji => {
-    const [a, b] = [sample(emoji), sample(emoji)].map(buildStringFromEmoji)
+    const [a, b] = getFighters(emoji)
 
     postPoll(twit, "Who would win in a fight?", [a, b])
       .then(t => getCard(twit, t))
