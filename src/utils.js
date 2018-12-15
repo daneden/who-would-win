@@ -7,7 +7,6 @@ type Emoji = {
 }
 
 // Pick a random element from an array
-// TODO: Fix `any` type to be type T so that: Array<T> => T
 function sample<T>(array: Array<T>): T {
   return array[Math.floor(Math.random() * array.length)]
 }
