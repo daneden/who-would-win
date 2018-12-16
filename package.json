@@ -6,6 +6,7 @@
   "dependencies": {
     "csvtojson": "^2.0.8",
     "dotenv": "^6.1.0",
+    "flow-remove-types": "^1.2.3",
     "q": "^1.5.1",
     "twit": "^2.2.11"
   },
@@ -25,7 +26,6 @@
   },
   "devDependencies": {
     "flow-bin": "^0.87.0",
-    "flow-remove-types": "^1.2.3",
     "flow-typed": "^2.5.1",
     "husky": "^1.2.0",
     "lint-staged": "^8.1.0",
@@ -34,7 +34,7 @@
   "scripts": {
     "flow": "flow",
     "flow-check": "flow check ./src/",
-    "flow-build": "./node_modules/.bin/flow-remove-types ./src/ -d ./dist/ --all --pretty",
+    "flow-build": "flow-remove-types ./src/ -d ./dist/ --all --pretty",
     "pretest": "npm run flow-build",
     "test": "node ./dist/test.js",
     "prestart": "npm run flow-build",
