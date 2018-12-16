@@ -9,6 +9,9 @@
     "q": "^1.5.1",
     "twit": "^2.2.11"
   },
+  "engines": {
+    "node": "10.14.2"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
