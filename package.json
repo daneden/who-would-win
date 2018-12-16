@@ -31,7 +31,7 @@
   "scripts": {
     "flow": "flow",
     "flow-check": "flow check ./src/",
-    "flow-build": "flow-remove-types ./src/ -d ./dist/ --all --pretty",
+    "flow-build": "./node_modules/.bin/flow-remove-types ./src/ -d ./dist/ --all --pretty",
     "pretest": "npm run flow-build",
     "test": "node ./dist/test.js",
     "prestart": "npm run flow-build",
