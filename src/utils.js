@@ -14,7 +14,10 @@ function sample<T>(array: Array<T>): T {
 }
 
 function buildStringFromEmoji(emoji: Emoji): string {
-  let label = emoji.shortname.replace(/:/g, "").replace(/-/g, " ")
+  const label = emoji.shortname
+    .replace(/:/g, "") // strip out colons
+    .replace(/-/g, " ") // replace dashes with spaces
+
   return `${emoji.utf} ${label}`
 }
 
