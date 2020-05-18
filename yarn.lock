@@ -718,9 +718,10 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
-flow-bin@^0.87.0:
-  version "0.87.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.87.0.tgz#fab7f984d8cc767e93fa9eb01cf7d57ed744f19d"
+flow-bin@^0.125.1:
+  version "0.125.1"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.125.1.tgz#7edbc71e7dc39ddef18086ef75c714bbf1c5917f"
+  integrity sha512-jEury9NTXylxQEOAXLWEE945BjBwYcMwwKVnb+5XORNwMQE7i5hQYF0ysYfsaaYOa7rW/U16rHBfwLuaZfWV7A==
 
 flow-remove-types@^1.2.3:
   version "1.2.3"
