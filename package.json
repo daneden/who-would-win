@@ -28,7 +28,7 @@
     "flow-bin": "^0.127.0",
     "flow-typed": "^2.5.1",
     "husky": "^1.2.1",
-    "lint-staged": "^8.1.0",
+    "lint-staged": "^10.2.10",
     "prettier": "^2.0.2"
   },
   "scripts": {
