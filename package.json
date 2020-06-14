@@ -6,7 +6,7 @@
   "dependencies": {
     "csvtojson": "^2.0.8",
     "dotenv": "^6.2.0",
-    "flow-remove-types": "^1.2.3",
+    "flow-remove-types": "^2.127.0",
     "q": "^1.5.1",
     "twit": "^2.2.11"
   },
