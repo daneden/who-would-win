@@ -734,17 +734,17 @@ flow-bin@^0.127.0:
   resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.127.0.tgz#0614cff4c1b783beef1feeb7108d536e09d77632"
   integrity sha512-ywvCCdV4NJWzrqjFrMU5tAiVGyBiXjsJQ1+/kj8thXyX15V17x8BFvNwoAH97NrUU8T1HzmFBjLzWc0l2319qg==
 
-flow-parser@^0.127.0:
-  version "0.127.0"
-  resolved "https://registry.yarnpkg.com/flow-parser/-/flow-parser-0.127.0.tgz#e23ac72f3e7d2c25a6918c6d695db9f2e6c7a913"
-  integrity sha512-T4T92hVeVtrkYYvU01L2KFANsA0TJQrgy46efIU/JBxDhVjxIdS7KzaBEsPJu7RPOM44FCR7wcFQg6rWtGGrLQ==
+flow-parser@^0.128.0:
+  version "0.128.0"
+  resolved "https://registry.yarnpkg.com/flow-parser/-/flow-parser-0.128.0.tgz#6bee9bc4f578c8b66f59ad52dd769464a36a029d"
+  integrity sha512-BOqwccrxdGQjR09H9/YvmgrY6xCyhfRqqZ6HOiDuPBYkSVd5rKamCLs2S4D7Yd0ltwBtnP3rp7vzaBTIJK1+Iw==
 
-flow-remove-types@^2.127.0:
-  version "2.127.0"
-  resolved "https://registry.yarnpkg.com/flow-remove-types/-/flow-remove-types-2.127.0.tgz#b3611e3738e4a51b2a94fe858bad149c99f47fc9"
-  integrity sha512-4nGhabtIh2A4E6TQWklopmye1c+6h1GEu5xa6WjlfWJMoXIbjlM368t/RdFr5+MfVR0D0xzQvOebCjue9V0zMg==
+flow-remove-types@^2.128.0:
+  version "2.128.0"
+  resolved "https://registry.yarnpkg.com/flow-remove-types/-/flow-remove-types-2.128.0.tgz#c4c441f07f248f80c9c29b144715cc281922ad6d"
+  integrity sha512-g13R2XnhhRd8c16ObNffnRg1kJiIg/4miD4InFziTWSQ+0g1Txu8oJEDFiOyyfHjQor4pM1L2l+iRz+UoFxLKA==
   dependencies:
-    flow-parser "^0.127.0"
+    flow-parser "^0.128.0"
     pirates "^3.0.2"
     vlq "^0.2.1"
 
