@@ -25,7 +25,7 @@
     ]
   },
   "devDependencies": {
-    "flow-bin": "^0.135.0",
+    "flow-bin": "^0.157.0",
     "flow-typed": "^3.2.1",
     "husky": "^4.2.5",
     "lint-staged": "^10.4.0",
