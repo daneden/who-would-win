@@ -1,3 +1,10 @@
+# ⚠️ This Repository Has Been Archived
+The code that displays the Who Would Win Bot leaderboard has been centralised along with the same code that creates fights, tracks data, and tallies results.
+
+You can find the unified repository at [daneden/who-would-win-bot](https://github.com/daneden/who-would-win-bot)
+
+***
+
 # Who Would Win Bot 🥊
 
 A [Twitter bot](https://twitter.com/WhoWouldWinBot) that posts polls so that people can decide which of two random emoji would win in a fight.
